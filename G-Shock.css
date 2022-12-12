@@ -1,0 +1,488 @@
+#firsht{
+    margin-top: -27px;
+    margin-left: -8px;
+    margin-right: -25px;
+    background-color: rgba(212, 224, 206, 0.685);
+    display: flex;
+}
+
+#head{
+background-color: #000;
+    top: 0px;
+    margin-top: 21px;
+    margin-left: -11px;
+    height: 68px;
+    width: 37%;
+    
+    
+    font-weight: bold;
+}
+
+.G{
+    margin-left: 85px;
+    font-size: 17px;
+    margin-top: 12px;
+    width: 50%;
+}
+.middle{
+    display: flex;
+    justify-content: space-between;
+    background-color: #000;
+    width: 21%;
+    margin-top: 21px  
+}
+.Menu{
+    color: aliceblue;
+    margin-top: 28px;
+    font-size: 14px;
+}
+#Last{
+    display: flex;
+    background-color: #000;
+    background-color: #000;
+    width: 50%;
+    margin-top: 21px;
+
+}
+.input{
+    color: white;
+    outline: none;
+    border-block-color: white;
+    margin-left: 461px;
+    height: 23px;
+    margin-top: 25px;
+    background-color: #000;
+    line-height: 36px;
+    border-block-start-color: #000;
+    border-right-color: #000;
+    width: 151px;
+
+}
+
+input:hover{
+    
+    width: 400px;
+    margin-left: 200px ; 
+}
+
+#Search-Image{
+    width: 22px;
+    height: 22px;
+    transform: rotate(-99deg);
+    margin-top: 22px;
+    margin-left: -32px;
+}
+#para-1{
+    text-align: center;
+    margin-top: 121px;
+    line-height: 53px;
+    font-family: verdana;
+    font-size: 30px;
+}
+.Men:hover{
+background-color:red;
+}
+
+.Para-2{
+    text-align: center;
+    line-height: 30px;
+    font-weight: 400;
+    margin-top: 41px;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+.lineup{
+    text-align: center;
+    margin-top: 64px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.Watches{
+    align-items: center;
+    align-content: center;
+    display: flex;
+    justify-content: center;
+   
+}
+
+
+.Watch-Bg{
+    background-color: #f7f8fa;
+    height: 413px;
+    width: 314px;
+    margin-left: 12px;
+    margin-top: 107px;
+}
+.Watch-Bg:hover{
+   border:solid 2px; 
+    border-color: rgb(21, 22, 22);
+}
+
+.Watch{
+    width: 69%;
+    margin-left: 37px;
+    margin-top: 47px;
+}
+
+.Watch-Other{
+   margin-left: 25px;
+    background-color: #f7f8fa;
+    height: 415px;
+    width: 316px;
+    margin-top: 108px;
+}
+.Watch-Other:hover{
+border: solid 1px;
+border-color: rgb(24, 22, 22);
+}
+.G-Shock{
+    margin-left: 17px;
+    font-family: sans-serif;
+    font-size: 17px;
+    margin-top: -47px;
+    font-weight: unset;
+    background-color: #dcdcdc;
+}
+.GA{
+    font-size: 19px;
+    font-family: sans-serif;
+    margin-left: 17px; 
+    margin-top: 0px;
+}
+.Mrp{
+    margin-left: 17px;
+    font-size: 10px;
+}
+.price{
+    margin-left: 17px;
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: -7px;
+}
+.Test{
+    background-color:#dcdcdc;
+    margin-top: 20px;
+}
+Watch-2{
+    display: flex;
+}
+.Second-Image{
+    margin-top: 92px;
+    width: 100%;
+    display: flex;
+}
+.Para-3{
+    margin-top: -485px;
+    margin-left: 67px;
+    line-height: 34px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.Para-4{
+    display: flex;
+    background-color: white;
+    margin-top: 418px;
+    width: 100%;
+    height: 297px;
+}
+.Para-Four{
+    margin-left: 221px;
+    margin-top: 89px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 29px;
+    font-size: 13px;
+}
+.Third-Image{
+    width: 100%;
+    margin-top: 0px;
+}
+.Watch-3{
+
+}
+.Para-5{
+    background-color: white;
+    margin-top: 414px;
+    width: 100%;
+    height: 236px;
+    
+}
+.Para-Five{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 29px;
+    font-size: 14px;
+    margin-left: 229px;
+    padding-top: 61px;
+}
+.Para-6{
+    margin-top: -484px;
+    font-size: 20px;
+    margin-left: 67px;
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+}
+.Video-Div{
+    background-color: #000;
+    margin-top: -50px;
+    width: 100%;
+    height: 777px;
+    color: aliceblue;
+    text-align: center;
+}
+.Video{
+    width:90% ;
+    height: 600px;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+.Products-Movie{
+    padding-top: 67px;
+    font-family: sans-serif;
+}
+.Details{
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 81px;
+    font-size: 38px;
+}
+.Details-Div{
+    display: flex;
+}
+.Watch-4{
+    width: 42%;
+    margin-left: 133px;
+    margin-top: 50px;
+}
+.Watch-5{
+    width: 42%;
+    margin-left: 37px;
+}
+.Carbon-Text{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 133px;
+    font-size: 17px;
+    font-weight: bold;
+}
+.Shock-Text{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 133px;
+    font-size: 14px;
+    line-height: 23px;
+    color: black;
+    padding-top: 7px;
+}
+.Smart-Text{
+    margin-left: 54%;
+    margin-top: -107px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Super-Text{
+    margin-left: 132px;
+    font-size: 19px;
+    line-height: 2;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.Image-Shows{
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left: 128px;
+    font-size: 13px;
+}
+.Div-Gallery-Text{
+    background-color: white;
+    width: 100%;
+    height: 197px;
+    text-align: center;
+    margin-top: 128px;
+}   
+.Gallery-Text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.92826vw;
+    padding-top: 75px;
+
+}
+.Gallery-Image{
+    width: 100%;
+}
+.Div-Gallery{
+    display: flex;
+    width: 100%;
+    height: 1077px;
+    margin-top: -28px;
+    background-color: #000; 
+    color:white;
+}
+.Gallery-Model{
+    width: 89%;
+    margin-left: 86px;
+    margin-top: 29px;
+    height: 1007px;
+}
+.Pending{
+    width: 100%;
+    height: 597px;
+    background-color: white;
+    margin-top: -15px;
+}
+.Playstore{
+    width: 100%;
+}
+.Specification-Div{
+    width: 100%;
+    height: 532px;
+    background-color:#fff;
+    
+    MARGIN-TOP: -31px;
+}
+.Specification-Text{
+    padding-top: 61px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 39px;
+    font-weight: bold;
+    text-align: center;
+}
+.Specification{
+    width: 100%;
+}
+.Watch-Functions{
+    font-family:Arial, Helvetica, sans-serif ;
+    text-align: center;
+    font-size: 14px;
+}
+.li-Right{
+    line-height: 31px;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 468px;
+
+}
+.Cities{
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left: 576px;
+    margin-top: -24px;
+}
+.one{
+    margin-top: -169px;
+    margin-left: 840px;
+    line-height: 31px;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.li-Left{
+    line-height: 31px;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 840px;
+}
+.Super{
+    margin-left: 990px;
+    margin-top: -26px;
+}
+.Bluethooth{
+    margin-left: 88px;
+    margin-top: 126px;
+    font-family:  Arial, Helvetica, sans-serif;
+    font-size: 13px;font-size: 13px;
+}
+.End{
+    display: flex;
+    width: 100%;
+    height: 367px;
+    background-color: #000;
+    color: #f7f8fa;
+}
+.Products{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-left: 186px;
+    margin-top: 44px;
+    font-size: 14px;
+}
+.Products-Ul{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: -100px;
+    margin-top: 80px;
+    color:#5a5a5a;
+}
+.Brand{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-left: 277px;
+    margin-top: 44px;
+    font-size: 14px;
+}
+.Brand-Ul{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: -100px;
+    margin-top: 73px;
+    color:#5a5a5a ;
+    line-height: 26px;
+    font-size: 14px;
+}
+.Link{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-left: 277px;
+    margin-top: 44px;
+    font-size: 14px;
+}
+.Link-Ul{
+    margin-top: 73px;
+    margin-left: -77px;
+    color:#5a5a5a ;
+}
+.Facebook-Logo{
+    margin-top: 264px;
+    margin-left: -960px;
+    width: 32px;
+}
+.Insta-Logo{
+    margin-top: 264px;
+    margin-left: -915px;
+    width: 32px;
+}
+.Youtube{
+    margin-top: 264px;
+    margin-left: -876px;
+    width: 32px;
+}
+.Last-Div{
+    display: flex;
+    background-color:#0000;
+    width: 100%;
+    margin-top: 293px;
+    margin-left: -1030px;
+}
+.Terms-Text{
+    font-size: 11px;
+    padding-left: 75px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: -5px
+}
+.Casio{
+   
+    font-family: din-2014,noto-sans-cjk-jp,ヒラギノ角ゴ ProN,Hiragino Kaku Gothic ProN,Arial,メイリオ,Meiryo,sans-serif;
+    line-height: 1.5;
+    font-size: 9px;
+    color: #fff;
+    margin-top: 48px;
+  margin-left: -437px;
+}
+.Fav{
+    display: flex;
+}
+.Top{
+    font-size: 13px;
+    margin-left: 96%;
+    margin-top: 10px;
+    font-family: sans-serif;
+    background-color:#f4f5f8 ;
+}
+
+
